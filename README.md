@@ -44,7 +44,7 @@ A terminal dashboard for monitoring [OpenClaw](https://github.com/openclaw/openc
 
 <img width="709" height="292" alt="No sub agents" src="images/no-sub-agents.png" />
 
-<img width="715" height="500" alt="Monitoring sub agents" src="images/monitoring-sub-agents.png" />
+<img width="715" height="500" alt="Monitoring sub agents" src="monitoring-sub-agents.png" />
 
 
 ## Install
