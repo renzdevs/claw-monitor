@@ -1,4 +1,4 @@
-# 🦞 claw-monitor
+# 🦞 clawscan
 
 ![claw-monitor demo](https://img.shields.io/badge/status-beta-yellow)
 
